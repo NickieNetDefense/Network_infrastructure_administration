@@ -1,0 +1,22 @@
+# Virtual machine files
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+
+# VPN / certificate private material
+*.ovpn
+*.p12
+*.pfx
+*.key
+*.pem
+
+# pfSense / config backups
+*.xml
+*.conf
+*.bak
+
+# OS / editor clutter
+Thumbs.db
+.DS_Store
+.vscode/
